@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Welcome to ALGOblocks!",
+      "body": "This tutorial will guide you through building and backtesting trading strategies."
+    },
+    {
+      "title": "Step 1: Select a Symbol",
+      "body": "Use the symbol search to select a stock you want to trade."
+    },
+    {
+      "title": "Step 2: Drag and Drop Blocks",
+      "body": "Drag indicator and rule blocks onto the canvas to build your strategy."
+    },
+    {
+      "title": "Step 3: Configure Blocks",
+      "body": "Click on each block to configure its parameters (e.g., period for SMA)."
+    },
+    {
+      "title": "Step 4: Run Backtest",
+      "body": "Click 'Run Backtest' to see how your strategy would have performed."
+    },
+    {
+      "title": "Step 5: Paper Trade",
+      "body": "Use 'Paper Trade' to simulate real trades and track your portfolio."
+    }
+  ]
+  
