@@ -1,5 +1,6 @@
-aiohttp==3.8.1  # Matches alpaca-trade-api's requirement
-alpaca-trade-api==3.0.0
+aiohttp>=3.8.1,<4.0.0
+alpaca-trade-api>=3.0.0
+
 flask==2.2.3
 python-dotenv==1.0.0
 pandas==1.5.3    # Keep or update to 2.0.3 if needed
