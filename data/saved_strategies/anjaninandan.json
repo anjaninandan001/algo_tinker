@@ -1,0 +1,25 @@
+{
+    "name": "anjaninandan",
+    "blocks": [
+        {
+            "id": "block-4",
+            "type": "indicator",
+            "x": 154.52499389648438,
+            "y": 121.80000305175781,
+            "indicatorType": "SMA",
+            "period": 20
+        },
+        {
+            "id": "block-5",
+            "type": "indicator",
+            "x": 389.5249938964844,
+            "y": 89.80000305175781,
+            "indicatorType": "EMA",
+            "period": 20
+        }
+    ],
+    "symbol": "AAPL",
+    "date": "2025-04-20T18:58:43.337Z",
+    "user_email": "wardeniitrjawahar@gmail.com",
+    "username": "anjani001"
+}
