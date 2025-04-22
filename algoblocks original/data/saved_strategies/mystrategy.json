@@ -1,0 +1,40 @@
+{
+    "name": "mystrategy",
+    "blocks": [
+        {
+            "id": "block-1",
+            "type": "indicator",
+            "x": 225.52499389648438,
+            "y": 87.80000305175781,
+            "indicatorType": "SMA",
+            "period": 30
+        },
+        {
+            "id": "block-2",
+            "type": "indicator",
+            "x": 612.5249938964844,
+            "y": 128.8000030517578,
+            "indicatorType": "MACD",
+            "fastPeriod": 12,
+            "slowPeriod": 26,
+            "signalPeriod": 9
+        },
+        {
+            "id": "block-3",
+            "type": "entry",
+            "x": 85.52499389648438,
+            "y": 39.80000305175781,
+            "conditions": [
+                {
+                    "indicator": "low",
+                    "operator": "<=",
+                    "value": "100"
+                }
+            ]
+        }
+    ],
+    "symbol": "AAPL",
+    "date": "2025-04-22T08:43:48.171Z",
+    "user_email": "dragravat10@gmail.com",
+    "username": "dhruv_agravat"
+}
