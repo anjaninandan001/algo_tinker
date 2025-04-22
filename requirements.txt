@@ -8,5 +8,3 @@ email-validator==2.0.0
 
 gunicorn
 aiohttp==3.8.6   # For Python 3.11
-# OR
-aiohttp==3.9.0b0  # For Python 3.12+
