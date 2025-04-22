@@ -6,7 +6,9 @@ services:
     region: oregon
     branch: main
     buildCommand: |
+      python --version
       apt-get update && apt-get install -y python3.11-dev build-essential
       pip install --upgrade pip
+      pip cache purge || true
       pip install -r requirements.txt
     startCommand: python app.py
