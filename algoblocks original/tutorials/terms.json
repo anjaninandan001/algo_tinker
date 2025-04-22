@@ -1,0 +1,82 @@
+[
+  {
+    "term": "Stock",
+    "definition": "A share in the ownership of a company."
+  },
+  {
+    "term": "Indicator",
+    "definition": "A tool or formula used to analyze stock price patterns and help make trading decisions."
+  },
+  {
+    "term": "Backtest",
+    "definition": "Testing a trading strategy using historical price data to see how it would have performed."
+  },
+  {
+    "term": "Paper Trading",
+    "definition": "Simulated trading with no real money at risk. It helps you practice without losing money."
+  },
+  {
+    "term": "Equity Curve",
+    "definition": "A graph that shows how the value of your portfolio or strategy changes over time."
+  },
+  {
+    "term": "SMA (Simple Moving Average)",
+    "definition": "An indicator that shows the average price of a stock over a specific number of days. It smooths out price data to help identify trends."
+  },
+  {
+    "term": "EMA (Exponential Moving Average)",
+    "definition": "Like the SMA, but gives more importance to recent prices. It reacts faster to price changes."
+  },
+  {
+    "term": "RSI (Relative Strength Index)",
+    "definition": "An indicator that measures how overbought or oversold a stock is. A value above 70 may mean 'overbought'; below 30 may mean 'oversold.'"
+  },
+  {
+    "term": "MACD (Moving Average Convergence Divergence)",
+    "definition": "A trend-following momentum indicator that shows the relationship between two EMAs. Often used to spot changes in trend direction."
+  },
+  {
+    "term": "Volume",
+    "definition": "The number of shares traded during a specific time period. High volume usually means strong interest in a stock."
+  },
+  {
+    "term": "Buy Signal",
+    "definition": "An indication (from an indicator or rule) that it might be a good time to buy a stock."
+  },
+  {
+    "term": "Sell Signal",
+    "definition": "An indication that it might be a good time to sell a stock."
+  },
+  {
+    "term": "Support",
+    "definition": "A price level where a stock tends to stop falling and may bounce back up."
+  },
+  {
+    "term": "Resistance",
+    "definition": "A price level where a stock tends to stop rising and may reverse downward."
+  },
+  {
+    "term": "Trend",
+    "definition": "The general direction of a stock's price—upward (bullish), downward (bearish), or sideways."
+  },
+  {
+    "term": "Candlestick Chart",
+    "definition": "A type of price chart that shows the open, high, low, and close for each time period. Each 'candle' shows if the price went up (green) or down (red)."
+  },
+  {
+    "term": "Entry Rule",
+    "definition": "A condition that decides when to buy a stock in your strategy."
+  },
+  {
+    "term": "Exit Rule",
+    "definition": "A condition that decides when to sell a stock in your strategy."
+  },
+  {
+    "term": "Symbol",
+    "definition": "A short code used to identify a stock, such as AAPL for Apple Inc."
+  },
+  {
+    "term": "Initial Capital",
+    "definition": "The amount of money you start with in your trading account."
+  }
+]
